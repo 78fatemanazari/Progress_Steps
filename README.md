@@ -47,7 +47,7 @@
 
 🚀 Live Demo
 
-- https://78fatemanazari.github.io/Scroll_Animation/
+- https://78fatemanazari.github.io/Progress_Steps/
 
 <!-- GETTING STARTED -->
 
